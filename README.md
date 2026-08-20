@@ -2,6 +2,11 @@
 
 This project was built with [Lovable](https://lovable.dev).
 
+
+#vercel app deployment 
+
+https://vercel.com/saronvinnarasi/portfolio-website
+
 ## Build with Lovable
 
 Open your project in the [Lovable editor](https://lovable.dev) and keep building.
